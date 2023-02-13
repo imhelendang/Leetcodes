@@ -1,3 +1,6 @@
+// Reference: https://leetcode.com/problems/linked-list-cycle-ii/solutions/1701128/c-java-python-slow-and-fast-image-explanation-beginner-friendly/?envType=study-plan&id=level-1
+// Improvised by: Jade Tran
+
 #include <iostream>
 #include <fstream>
 #include <string>
